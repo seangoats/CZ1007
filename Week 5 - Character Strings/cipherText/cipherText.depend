@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582635280 source:c:\users\sean2\desktop\cz1007 codes\week 5 - character strings\ciphertext\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

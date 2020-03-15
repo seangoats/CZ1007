@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582639841 source:c:\users\sean2\desktop\cz1007 codes\week 5 - character strings\findsubstring\main.c
+	<stdio.h>
+	<string.h>
+
